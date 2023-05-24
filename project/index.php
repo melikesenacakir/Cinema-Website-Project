@@ -106,7 +106,7 @@
             <img src="Resimler/sale.png" class="d-block mx-auto img-fluid" style="height: 500px;" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="Resimler/temp.png" class="d-block mx-auto img-fluid" style="height: 500px;" alt="...">
+            <img src="Resimler/YAKINDA%20VİZYONDA!.png" class="d-block mx-auto img-fluid" style="height: 500px;" alt="...">
         </div>
     </div>
     <button class="carousel-control-prev bg-dark" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
