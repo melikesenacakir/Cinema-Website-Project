@@ -9,8 +9,6 @@
     <link rel="stylesheet" href="bootstrap-5.3.0-alpha3-dist/css/bootstrap.css">
     <script src="bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.js"></script>
 
-    <title>CinemaMSB</title>
-
     <style>
         .card-img-top {
             transition: transform 0.3s;
