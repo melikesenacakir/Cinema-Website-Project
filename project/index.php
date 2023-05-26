@@ -76,10 +76,10 @@
 
             </ul>
             <form class="d-flex me-2" role="search">
-                <input class="form-control me-2" type="search" placeholder="aradığınız film nedir?" aria-label="Search">
-                <button class="btn btn-light text-dark" type="submit">
-                    <img src="Resimler/popcornbuyutec.png" class="img-fluid" style="height: 30px;">
+                <button class="btn btn-light text-dark btn-sm rounded-start-pill" type="submit">
+                    <img src="Resimler/arama.png" class="img-fluid" style="height: 30px;">
                 </button>
+                <input class="form-control me-auto rounded-end-pill" type="search"  placeholder="aradığınız film nedir?" aria-label="Search">
             </form>
             <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
                 <div class="btn-group-sm me-2 mt-1" role="group" aria-label="First group">
