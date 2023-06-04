@@ -58,10 +58,10 @@
             </form>
             <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
                 <div class="btn-group-sm me-2 mt-1" role="group" aria-label="First group">
-                    <button type="button" class="btn btn-outline-light">Oturum aç</button>
+                    <button type="button" class="btn btn-outline-secondary" ><a href="../login.php" style="text-decoration:none" class="text-light">Oturum aç</a> </button>
                 </div>
                 <div class="btn-group-sm me-2 mt-1" role="group" aria-label="Second group">
-                    <button type="button" class="btn btn-outline-light">Kayıt ol</button>
+                    <button type="button" class="btn btn-outline-secondary"><a href="../kayit.php" style="text-decoration:none" class="text-light">Kayıt ol</a> </button>
                 </div>
             </div>
         </div>
