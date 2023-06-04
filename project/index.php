@@ -6,8 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Cinema MSB</title>
-    <link rel="stylesheet" href="bootstrap.css">
-    <script src="bootstrap.bundle.js"></script>
+    <link rel="stylesheet" href="bootstrap-5.3.0-alpha3-dist/css/bootstrap.css">
+    <script src="bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.js"></script>
 
     <style>
         .card-img-top {
@@ -126,7 +126,7 @@
         <div class="row ">
             <div class="col-md-3 mt-4">
                 <div class="card custom-card">
-                    <a href="hizliveofkeli10.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/hizliveofkeli10.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/hizliveofkeli10.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">HIZLI VE ÖFKELİ 10</p>
@@ -137,7 +137,7 @@
 
             <div class="col-md-3 mt-4">
                 <div class="card custom-card">
-                    <a href="galaksininkoruyuculari3.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/galaksininkoruyuculari3.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/galaksininkoruyuculari3.png" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">GALAKSİNİN KORUYUCULARI</p>
@@ -148,7 +148,7 @@
 
             <div class="col-md-3 mt-4">
                 <div class="card custom-card">
-                    <a href="araf-6-olum.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/araf-6-olum.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/araf-6-olum.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">ARAF 6:ÖLÜM</p>
@@ -159,7 +159,7 @@
 
             <div class="col-md-3 mt-4">
                 <div class="card custom-card">
-                    <a href="karanlikgece.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/karanlikgece.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/karanlikgece.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KARANLIK GECE</p>
@@ -170,7 +170,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="neseliciftliktrenkalkiyor.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/neseliciftliktrenkalkiyor.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/neseliciftliktrenkalkiyor.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">NEŞELİ ÇİFTLİK:TREN KALKIYOR</p>
@@ -181,7 +181,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="kurak-gunler.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/kurak-gunler.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/kurak-gunler-.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KURAK GÜNLER</p>
@@ -192,7 +192,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="mannucanakkalede.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/mannucanakkalede.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/mannucanakkalede.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">MANNU ÇANAKKALEDE</p>
@@ -203,7 +203,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="kotu-ruh-uyanis.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/kotu-ruh-uyanis.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/kotu-ruh-uyanis.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KÖTÜ RUH:UYANIŞ</p>
@@ -214,7 +214,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="askin-bununla-ne-ilgisi-var.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/askin-bununla-ne-ilgisi-var.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/askin-bununla-ne-ilgisi-var-.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">AŞKIN BUNUNLA NE İLGİSİ VAR?</p>
@@ -225,7 +225,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="resmi-yarisma.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/resmi-yarisma.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/resmi-yarisma-.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">RESMİ YARIŞMA</p>
@@ -236,7 +236,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="dali-diyari.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/dali-diyari.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/dali-diyari.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">DALİ DİYARI</p>
@@ -247,7 +247,7 @@
 
             <div class="col-md-3 mt-5">
                 <div class="card custom-card">
-                    <a href="korsaj.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/korsaj.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/korsaj-.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KORSAJ</p>
