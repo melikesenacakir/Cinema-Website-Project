@@ -108,7 +108,7 @@
             <div class="row">
                 <div class="col-md-2">
                     <h3><b>CinemaMSB</b></h3>
-                    <img src="Resimler/amblem.png " width="150" height="100">
+                    <img src="../Resimler/amblem.png " width="150" height="100">
                 </div>
                 <div class="col-md-2">
                     <h6><br></h6>
@@ -140,9 +140,9 @@
                 <div class="col-md-2" >
                     <h6><br></h6>
                     <h6><b>SOSYAL MEDYA</b></h6>
-                    <a href="https://www.secure.instagram.com/accounts/login/"><i class="fa fa-instagram mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/instagram.png" width="20" height="20"></a>
-                    <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/facebook.png"  width="20" height="20"></a>
-                    <a href="https://twitter.com/"><i class="fa fa-twitter mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/twitter.png" width="20" height="20"></a>
+                    <a href="https://www.secure.instagram.com/accounts/login/"><i class="fa fa-instagram mx-md-1"></i><img style="background-color: white" class="rounded-5" src="../Resimler/instagram.png" width="20" height="20"></a>
+                    <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook mx-md-1"></i><img style="background-color: white" class="rounded-5" src="../Resimler/facebook.png"  width="20" height="20"></a>
+                    <a href="https://twitter.com/"><i class="fa fa-twitter mx-md-1"></i><img style="background-color: white" class="rounded-5" src="../Resimler/twitter.png" width="20" height="20"></a>
 
 
                 </div>
