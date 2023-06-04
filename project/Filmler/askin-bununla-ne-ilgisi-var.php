@@ -40,12 +40,12 @@
                         FİLM TÜRLERİ
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="aksiyon.php">Aksiyon</a></li>
-                        <li><a class="dropdown-item" href="romantik-komedi.php">Romantik-Komedi</a></li>
-                        <li><a class="dropdown-item" href="animasyon.php">Animasyon</a></li>
-                        <li><a class="dropdown-item" href="biyografi.php">Biyografi</a></li>
-                        <li><a class="dropdown-item" href="dram.php">Dram</a></li>
-                        <li><a class="dropdown-item" href="korku.php">Korku</a></li>
+                        <li><a class="dropdown-item" href="../aksiyon.php">Aksiyon</a></li>
+                        <li><a class="dropdown-item" href="../romantik-komedi.php">Romantik-Komedi</a></li>
+                        <li><a class="dropdown-item" href="../animasyon.php">Animasyon</a></li>
+                        <li><a class="dropdown-item" href="../biyografi.php">Biyografi</a></li>
+                        <li><a class="dropdown-item" href="../dram.php">Dram</a></li>
+                        <li><a class="dropdown-item" href="../korku.php">Korku</a></li>
                     </ul>
                 </li>
 
@@ -113,8 +113,8 @@
                 <div class="col-md-2">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="index.php">Anasayfa</a></li>
-                        <li><a style="color: #ced4da" href="index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
+                        <li><a style="color: #ced4da" href="../index.php">Anasayfa</a></li>
+                        <li><a style="color: #ced4da" href="../index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
 
 
 
@@ -123,8 +123,8 @@
                 <div class="col-md-3">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
-                        <li><a style="color: #ced4da" href="kvkpolitika.php">KVK Politikasi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkpolitika.php">KVK Politikasi</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3">
