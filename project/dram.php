@@ -96,7 +96,7 @@
         <div class="row p-md-5 min-vw-50 ">
             <div class="col col-sm-auto ">
                 <div class="card custom-card" >
-                    <a href="karanlikgece.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/karanlikgece.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/karanlikgece.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KARANLIK GECE</p>
@@ -106,7 +106,7 @@
             </div>
             <div class="col  col-sm-auto">
                 <div class="card custom-card mt-auto" >
-                    <a href="kurak-gunler.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="Filmler/kurak-gunler.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/kurak-gunler-.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text" style="font-size: larger; font-weight: bold; color: black;">KURAK GÜNLER</p>
