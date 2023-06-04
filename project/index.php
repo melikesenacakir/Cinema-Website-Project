@@ -123,8 +123,8 @@
 <div>
     <!-- container start!-->
     <div  id="vizyondakifilmler" class="container mt-4">
-        <div class="row">
-            <div class="col-sm-3 mt-4">
+        <div class="row ">
+            <div class="col-md-3 mt-4">
                 <div class="card custom-card">
                     <a href="hizliveofkeli10.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/hizliveofkeli10.jpg" class="card-img-top" alt="...">
@@ -135,7 +135,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-4">
+            <div class="col-md-3 mt-4">
                 <div class="card custom-card">
                     <a href="galaksininkoruyuculari3.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/galaksininkoruyuculari3.png" class="card-img-top" alt="...">
@@ -146,7 +146,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-4">
+            <div class="col-md-3 mt-4">
                 <div class="card custom-card">
                     <a href="araf-6-olum.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/araf-6-olum.jpg" class="card-img-top" alt="...">
@@ -157,7 +157,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-4">
+            <div class="col-md-3 mt-4">
                 <div class="card custom-card">
                     <a href="karanlikgece.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/karanlikgece.jpg" class="card-img-top" alt="...">
@@ -168,7 +168,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="neseliciftliktrenkalkiyor.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/neseliciftliktrenkalkiyor.jpg" class="card-img-top" alt="...">
@@ -179,7 +179,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="kurak-gunler.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/kurak-gunler-.jpg" class="card-img-top" alt="...">
@@ -190,7 +190,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="mannucanakkalede.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/mannucanakkalede.jpg" class="card-img-top" alt="...">
@@ -201,7 +201,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="kotu-ruh-uyanis.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/kotu-ruh-uyanis.jpg" class="card-img-top" alt="...">
@@ -212,7 +212,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="askin-bununla-ne-ilgisi-var.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/askin-bununla-ne-ilgisi-var-.jpg" class="card-img-top" alt="...">
@@ -223,7 +223,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="resmi-yarisma.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/resmi-yarisma-.jpg" class="card-img-top" alt="...">
@@ -234,7 +234,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="dali-diyari.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/dali-diyari.jpg" class="card-img-top" alt="...">
@@ -245,7 +245,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-3 mt-5">
+            <div class="col-md-3 mt-5">
                 <div class="card custom-card">
                     <a href="korsaj.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/korsaj-.jpg" class="card-img-top" alt="...">
