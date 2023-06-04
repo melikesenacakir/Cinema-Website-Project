@@ -6,8 +6,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Kullanıcı Giriş</title>
-    <link rel="stylesheet" href="bootstrap-5.3.0-alpha3-dist/css/bootstrap.css">
-    <script src="bootstrap-5.3.0-alpha3-dist/js/bootstrap.bundle.js"></script>
+    <link rel="stylesheet" href="bootstrap.css">
+    <script src="bootstrap.bundle.js"></script>
 
 </head>
 <body>
@@ -107,8 +107,8 @@
     </div>
     <!-- container end!-->
     <!-- footer start -->
-    <footer class="bg-dark border-bottom-0">
-        <div class="container text-white mt-5 ">
+    <footer class="bg-dark"  >
+        <div class="container text-white mt-5">
             <div class="row">
                 <div class="col-md-2">
                     <h3><b>CinemaMSB</b></h3>
@@ -117,15 +117,18 @@
                 <div class="col-md-2">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="#">Vizyondaki Filmler</a></li>
+                        <li><a style="color: #ced4da" href="index.php">Anasayfa</a></li>
+                        <li><a style="color: #ced4da" href="#vizyondakifilmler">Vizyondaki Filmler</a></li>
+
+
                     </ul>
                 </div>
                 <div class="col-md-3">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da"" href="#">KVK Aydınlatma Bildirimi</a></li>
-                        <li><a style="color: #ced4da" href="#">KVK Politikasi</a></li>
-                        <li><a style="color: #ced4da" href="#">Hakkımızda</a></li>
+                        <li><a style="color: #ced4da" href="kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
+                        <li><a style="color: #ced4da" href="kvkpolitika.php">KVK Politikasi</a></li>
+
                     </ul>
                 </div>
                 <div class="col-md-3">
