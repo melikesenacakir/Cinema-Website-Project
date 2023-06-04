@@ -39,12 +39,12 @@
                         FİLM TÜRLERİ
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Aksiyon</a></li>
-                        <li><a class="dropdown-item" href="#">Romantik-Komedi</a></li>
-                        <li><a class="dropdown-item" href="#">Animasyon</a></li>
-                        <li><a class="dropdown-item" href="#">Biyografi</a></li>
-                        <li><a class="dropdown-item" href="#">Dram</a></li>
-                        <li><a class="dropdown-item" href="#">Korku</a></li>
+                        <li><a class="dropdown-item" href="aksiyon.php">Aksiyon</a></li>
+                        <li><a class="dropdown-item" href="romantik-komedi.php">Romantik-Komedi</a></li>
+                        <li><a class="dropdown-item" href="animasyon.php">Animasyon</a></li>
+                        <li><a class="dropdown-item" href="biyografi.php">Biyografi</a></li>
+                        <li><a class="dropdown-item" href="dram.php">Dram</a></li>
+                        <li><a class="dropdown-item" href="korku.php">Korku</a></li>
                     </ul>
                 </li>
             </ul>
