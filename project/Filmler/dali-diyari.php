@@ -113,8 +113,8 @@
                 <div class="col-md-2">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="index.php">Anasayfa</a></li>
-                        <li><a style="color: #ced4da" href="index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
+                        <li><a style="color: #ced4da" href="../index.php">Anasayfa</a></li>
+                        <li><a style="color: #ced4da" href="../index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
 
 
 
@@ -123,8 +123,8 @@
                 <div class="col-md-3">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
-                        <li><a style="color: #ced4da" href="kvkpolitika.php">KVK Politikasi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkpolitika.php">KVK Politikasi</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3">
