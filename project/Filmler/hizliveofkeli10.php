@@ -40,12 +40,12 @@
                         FİLM TÜRLERİ
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="aksiyon.php">Aksiyon</a></li>
-                        <li><a class="dropdown-item" href="romantik-komedi.php">Romantik-Komedi</a></li>
-                        <li><a class="dropdown-item" href="animasyon.php">Animasyon</a></li>
-                        <li><a class="dropdown-item" href="biyografi.php">Biyografi</a></li>
-                        <li><a class="dropdown-item" href="dram.php">Dram</a></li>
-                        <li><a class="dropdown-item" href="korku.php">Korku</a></li>
+                        <li><a class="dropdown-item" href="../aksiyon.php">Aksiyon</a></li>
+                        <li><a class="dropdown-item" href="../romantik-komedi.php">Romantik-Komedi</a></li>
+                        <li><a class="dropdown-item" href="../animasyon.php">Animasyon</a></li>
+                        <li><a class="dropdown-item" href="../biyografi.php">Biyografi</a></li>
+                        <li><a class="dropdown-item" href="../dram.php">Dram</a></li>
+                        <li><a class="dropdown-item" href="../korku.php">Korku</a></li>
                     </ul>
                 </li>
 
@@ -70,7 +70,7 @@
 <div class="card" style="">
     <div class="row no-gutters">
         <div class="col-md-4">
-            <img src="../Resimler/hizli-ve-ofkeli-10-2023518225128.jpg" class="card-img" alt="..." style="width: 400px; height: 450px;">
+            <img src="../Resimler/hizliveofkeli10.jpg" class="card-img" alt="..." style="width: 400px; height: 450px;">
         </div>
         <div class="col-md-8">
             <div class="card-body d-flex flex-column justify-content-between">
@@ -108,13 +108,13 @@
             <div class="row">
                 <div class="col-md-2">
                     <h3><b>CinemaMSB</b></h3>
-                    <img src="Resimler/amblem.png " width="150" height="100">
+                    <img src="../Resimler/amblem.png " width="150" height="100">
                 </div>
                 <div class="col-md-2">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="index.php">Anasayfa</a></li>
-                        <li><a style="color: #ced4da" href="index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
+                        <li><a style="color: #ced4da" href="../index.php">Anasayfa</a></li>
+                        <li><a style="color: #ced4da" href="../index.php#vizyondakifilmler">Vizyondaki Filmler</a></li>
 
 
 
@@ -123,8 +123,8 @@
                 <div class="col-md-3">
                     <h6><br></h6>
                     <ul class="list-unstyled">
-                        <li><a style="color: #ced4da" href="kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
-                        <li><a style="color: #ced4da" href="kvkpolitika.php">KVK Politikasi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkaydınlatma.php">KVK Aydınlatma Bildirimi</a></li>
+                        <li><a style="color: #ced4da" href="../kvkpolitika.php">KVK Politikasi</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3">
@@ -140,9 +140,9 @@
                 <div class="col-md-2" >
                     <h6><br></h6>
                     <h6><b>SOSYAL MEDYA</b></h6>
-                    <a href="https://www.secure.instagram.com/accounts/login/"><i class="fa fa-instagram mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/instagram.png" width="20" height="20"></a>
-                    <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/facebook.png"  width="20" height="20"></a>
-                    <a href="https://twitter.com/"><i class="fa fa-twitter mx-md-1"></i><img style="background-color: white" class="rounded-5" src="Resimler/twitter.png" width="20" height="20"></a>
+                    <a href="https://www.secure.instagram.com/accounts/login/"><i class="fa fa-instagram mx-md-1"></i><img style="background-color: white" class="../rounded-5" src="Resimler/instagram.png" width="20" height="20"></a>
+                    <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook mx-md-1"></i><img style="background-color: white" class="rounded-5" src="../Resimler/facebook.png"  width="20" height="20"></a>
+                    <a href="https://twitter.com/"><i class="fa fa-twitter mx-md-1"></i><img style="background-color: white" class="rounded-5" src="../Resimler/twitter.png" width="20" height="20"></a>
 
 
                 </div>
