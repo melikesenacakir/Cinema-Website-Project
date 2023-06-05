@@ -463,7 +463,7 @@
 </div>
 
 <div style="text-align: center;">
-    <a href="satınal.php">
+    <a href="ödemeyap.php">
         <button class="btn btn-secondary">Satın Alma</button>
     </a>
 </div>
