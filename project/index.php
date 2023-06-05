@@ -56,7 +56,7 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="#">Bilet İşlemleri</a></li>
-                        <li><a class="dropdown-item" href="#">Öneri Ve Şikayet</a></li>
+                        <li><a class="dropdown-item" href="önerişikayet.php">Öneri Ve Şikayet</a></li>
                         <li><a class="dropdown-item" href="#">İletişim</a></li>
                     </ul>
                 </li>
