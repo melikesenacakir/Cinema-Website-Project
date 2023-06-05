@@ -132,7 +132,7 @@
         <div class="row p-md-5 min-vw-50 ">
             <div class="col col-sm-auto ">
                 <div class="card custom-card" >
-                    <a href="Filmler/neseliciftliktrenkalkiyor.blade.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="/neseli" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/neseliciftliktrenkalkiyor.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text " style="font-size: larger; font-weight: bold; color: black;">NEŞELİ ÇİFTLİK:TREN KALKIYOR</p>
@@ -142,7 +142,7 @@
             </div>
             <div class="col  col-sm-auto mt-3">
                 <div class="card custom-card mt-auto " >
-                    <a href="Filmler/mannucanakkalede.blade.php" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
+                    <a href="/mannu" style="text-decoration: none;"> <!-- Update the href attribute to the PHP page -->
                         <img src="Resimler/mannucanakkalede.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text " style="font-size: larger; font-weight: bold; color: black;">MANNU ÇANAKKALEDE</p>
