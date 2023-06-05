@@ -13,9 +13,12 @@
 
 <script>
     function validateForm() {
-        var adSoyad = document.getElementById("ad_soyad").value;
-        var eposta = document.getElementById("eposta").value;
-        var mesaj = document.getElementById("mesaj").value;
+        var form = document.querySelector("form");
+        var formData = new FormData(form);
+
+        var adSoyad = formData.get("ad_soyad");
+        var eposta = formData.get("eposta");
+        var mesaj = formData.get("mesaj");
 
         if (adSoyad === "" || eposta === "" || mesaj === "") {
             alert("Lütfen tüm bilgileri doldurunuz.");
@@ -26,6 +29,7 @@
         }
     }
 </script>
+
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
