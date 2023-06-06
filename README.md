@@ -1,7 +1,7 @@
 # Cinema Website Project
 
  
- Presentation link: will uploaded soon!
+ Presentation link: https://youtu.be/6FplDKtfBWw
  
  
  
