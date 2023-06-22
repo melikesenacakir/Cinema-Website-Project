@@ -1,8 +1,6 @@
 # Cinema Website Project
 
  
- Presentation link: https://youtu.be/6FplDKtfBWw
- 
  
  
  Web Page:
